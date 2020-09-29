@@ -1,0 +1,6 @@
+{
+  "name": "cuba7-generation",
+  "devDependencies": {
+    "@cuba-platform/front-generator": "^2.0.0-beta.4"
+  }
+}
